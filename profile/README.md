@@ -62,19 +62,6 @@ Clusters Proxmox, Kubernetes, automações com Jenkins + N8N, pipelines otimizad
 
 ---
 
-## 🛰 Repositórios em destaque  
-
-### **🔧 Kram.SDK**  
-SDK oficial para integrações com o ecossistema GOWO®.
-
-### **☁️ kram.hub.api**  
-API principal de comunicação do Hub Integrações®.
-
-### **💼 kram.hub.app**  
-Interface moderna do Hub Integrações®, construída em Angular.
-
----
-
 ## 👥 Contribuições  
 Alguns repositórios são privados por conter integrações sensíveis, mas adoramos conversar sobre tecnologia e explorar novas ideias. Entre em contato se quiser colaborar com a GOWO®!
 
